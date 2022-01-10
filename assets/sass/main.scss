@@ -1,0 +1,17 @@
+//main.scss Archivo manifiesto
+//abstracts
+@import 'abstracts/functions';
+@import 'abstracts/variables';
+//vendors
+@import 'vendors/bootstrap/bootstrap.scss';
+//Base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+//Layout
+@import 'layout/header';
+@import 'layout/navbar';
+//Components
+@import 'components/buttons';
+//Pages
+//Themes
